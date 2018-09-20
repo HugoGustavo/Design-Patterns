@@ -1,4 +1,4 @@
-package chainofresponsibility;
+package interpreter;
 
 public class OrExpression implements Expression {
 	private Expression expr1 = null;

@@ -1,4 +1,4 @@
-package chainofresponsibility;
+package interpreter;
 
 public class TerminalExpression implements Expression {
 	private String data;
