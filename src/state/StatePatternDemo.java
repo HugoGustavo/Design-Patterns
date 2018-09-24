@@ -9,7 +9,6 @@ public class StatePatternDemo {
 		context.setState(startState);
 		context.doAction();
 		
-		
 		State stopState = new StopState();
 		context.setState(stopState);
 		context.doAction();
