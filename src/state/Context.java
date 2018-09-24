@@ -17,5 +17,6 @@ public class Context {
 	
 	public void doAction() {
 		this.state.doAction(this);
+		System.out.println(state);
 	}
 }
