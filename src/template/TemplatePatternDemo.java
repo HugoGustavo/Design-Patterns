@@ -10,7 +10,6 @@ public class TemplatePatternDemo {
 		
 		game = new Football();
 		game.play();
-		
 
 	}
 
